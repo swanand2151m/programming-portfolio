@@ -1,2 +1,2 @@
 # programming-portfolio
-just some projects in did to learn
+just some projects i did to learn
